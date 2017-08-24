@@ -1,0 +1,18 @@
+.block {
+	position:relative;
+	top: 50%;
+	left: 50%;
+	margin:-50px 0 0 -50px;
+	width: 100px;
+	height:100px;
+	background: blue;
+
+}
+
+html, body {
+	height: 100%;
+	width: 100%;
+	position: relative;
+	top:0;
+	left:0;
+}
